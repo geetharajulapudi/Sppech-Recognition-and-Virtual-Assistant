@@ -1,0 +1,33 @@
+COMMANDS IN VOICE ASSISTANT
+
+1. Searching in Wikipedia   - information , search
+
+2. Telling Name             - who are you , your name
+
+3. Telling Facts            - fact , randomfacts
+
+4. telling a Joke           - joke , laugh
+
+5. opening websites 
+
+    opening google           - open google , google
+ 
+    opening gmail            - open gmail , gmail
+
+    opening google Maps      - open maps , maps
+
+6. opening notepad           - notepad, to write a note
+
+7. Telling current time      - time , current time
+
+8. Telling Today date        - date , what is today date
+
+9. Displaying current year   - calendar , current year calendar
+
+10. Saying response to thank - Thankyou , thanks
+
+11. Telling movie review     - movie review , review
+
+12. playing video on youTube - play ,video  
+
+13. Saying Good Bye          - goodbye , see you
